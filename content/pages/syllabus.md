@@ -35,40 +35,370 @@ Textbook and Additional Resources
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problems Sets (5 total, only first four problem sets were graded) | 25% |
-| Laboratory Project | 25% |
-| Midterm Exam (open book and notes, lectures 1–12.) | 25% |
-| Final Exam (open book and notes, lectures 13–25.) | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problems Sets (5 total, only first four problem sets were graded)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Laboratory Project
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Exam (open book and notes, lectures 1–12.)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam (open book and notes, lectures 13–25.)
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Fundamentals and Definitions | &nbsp; |
-| 3–4 | Mission Analysis | &nbsp; |
-| 5 | Review of Classical Astrodynamics | &nbsp; |
-| 6 | Analytical Approximations for Low Thrust Maneuvers | Problem Set 1 due |
-| 7 | Sub-optimal Climb and Plane Change | &nbsp; |
-| 8 | Basic Electromagnetic Theory and Plasma Physics | &nbsp; |
-| 9 | Overview of the Physics in the Plasma Sheath | Problem Set 2 due |
-| 10 | Electrostatic Thrusters (Kaufman Ion Engines) | &nbsp; |
-| 11 | Characterization of Space Propulsion Devices | &nbsp; |
-| 12 | Monopropellant Thrusters | Problem Set 3 due |
-| &nbsp; || {{< td-colspan 2 >}}**Midterm Exam**{{< /td-colspan >}} ||
-| 13 | Electrothermal Augmentation | &nbsp; |
-| 14 | Plasmas in Equilibrium | &nbsp; |
-| 15 | Arcjet Thrusters | Problem Set 4 due |
-| 16 | Hall Thrusters | &nbsp; |
-| 17 | Hall Thruster Efficiency | &nbsp; |
-| 18 | Hall Thrusters: Fluid Model of the Discharge | &nbsp; |
-| 19 | Plasma Accelerators / Magneto Plasma Dynamic (MPD) Thrusters | Problem Set 5 discussed in class |
-| 20 | Electrospray Propulsion | &nbsp; |
-| 21 | Laboratory Project Presentations & Discussion | Lab Project due |
-| 22–23 | Cone-jet Electrosprays, or Colloid Thrusters | &nbsp; |
-| 24 | Ion Emission and the Pure Ionic Regime | &nbsp; |
-| 25 | Electrodynamic Tethers | &nbsp; |
-| &nbsp; || {{< td-colspan 2 >}}**Final Exam**{{< /td-colspan >}} |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamentals and Definitions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3–4
+{{< tdclose >}}
+{{< tdopen >}}
+Mission Analysis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Review of Classical Astrodynamics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Analytical Approximations for Low Thrust Maneuvers
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Sub-optimal Climb and Plane Change
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Basic Electromagnetic Theory and Plasma Physics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of the Physics in the Plasma Sheath
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Electrostatic Thrusters (Kaufman Ion Engines)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Characterization of Space Propulsion Devices
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Monopropellant Thrusters
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+**Midterm Exam**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Electrothermal Augmentation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Plasmas in Equilibrium
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Arcjet Thrusters
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Hall Thrusters
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Hall Thruster Efficiency
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Hall Thrusters: Fluid Model of the Discharge
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Plasma Accelerators / Magneto Plasma Dynamic (MPD) Thrusters
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 5 discussed in class
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Electrospray Propulsion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Laboratory Project Presentations & Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+Lab Project due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22–23
+{{< tdclose >}}
+{{< tdopen >}}
+Cone-jet Electrosprays, or Colloid Thrusters
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Ion Emission and the Pure Ionic Regime
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Electrodynamic Tethers
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen colspan="2" >}}
+**Final Exam**
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
